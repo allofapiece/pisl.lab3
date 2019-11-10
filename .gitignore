@@ -1,0 +1,6 @@
+.idea
+out
+target
+web/WEB-INF/lib/*
+*.iml
+src/main/resources/db.properties
